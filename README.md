@@ -1,4 +1,3 @@
-# advanced-debugging
-Advanced Debugging Code Samples
+# Advanced Debugging
 
 This repository contains code samples for learning advanced debugging techniques.
